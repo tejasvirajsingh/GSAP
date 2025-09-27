@@ -11,17 +11,17 @@ body {
     width: 100%;
 }
 body{
-    background-color: #392a2a;
+    background-color: #29acb8;
 }
 
 #box1 {
     height: 300px;
     width: 300px;
-    background-color: aqua;
+    background-color: rgb(69, 94, 94);
 }
 
 #box2{
     height: 300px;
     width: 300px;
-    background-color: aquamarine;
+    background-color: rgb(6, 187, 42);
 }
