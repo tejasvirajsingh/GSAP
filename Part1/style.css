@@ -11,17 +11,26 @@ body {
     width: 100%;
 }
 body{
-    background-color: #29acb8;
+    background-color: #191b1b;
 }
 
 #box1 {
-    height: 300px;
-    width: 300px;
+    height: 150px;
+    width: 150px;
     background-color: rgb(69, 94, 94);
 }
 
 #box2{
-    height: 300px;
-    width: 300px;
+    height: 150px;
+    width: 150px;
     background-color: rgb(6, 187, 42);
+}
+#box3{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(235, 69, 14);
+}
+.highlight{
+    color: white;
+    font-weight: bold;
 }
