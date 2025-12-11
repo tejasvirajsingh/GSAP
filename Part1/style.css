@@ -12,8 +12,8 @@ body {
 }
 body{
     background-color: #191b1b;
+    
 }
-
 #box1 {
     height: 150px;
     width: 150px;
@@ -30,7 +30,14 @@ body{
     width: 150px;
     background-color: rgb(235, 69, 14);
 }
+
+p{
+
+    text-align: center;
+}
+
 .highlight{
     color: white;
     font-weight: bold;
+    align-items: center;
 }
