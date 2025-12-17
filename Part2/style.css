@@ -24,7 +24,7 @@ html,body{
 #page2{
     height: 100%;
     width: 100%;
-    background-color: rgb(251, 126, 10);
+    background-color: rgb(230, 13, 143);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -33,7 +33,7 @@ html,body{
 #page3{
     height: 100%;
     width: 100%;
-    background-color: rgb(105, 229, 16);
+    background-color: rgb(11, 167, 210);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -42,5 +42,5 @@ html,body{
 #box{
     height: 300px;
     width: 300px;
-    background-color: rgb(154, 4, 4);
+    background-color: rgb(10, 236, 112);
 }
